@@ -1,0 +1,13 @@
+.logo,.menu,.slider,.service,.footer{
+	background-color: grey;
+	min-height: 100px;
+}
+.slider,.service{
+	min-height: 600px;
+	margin: 30px 0px;
+
+}
+.service{
+	min-height: 300px;
+	margin-top: 0px;
+}
